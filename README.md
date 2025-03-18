@@ -1,6 +1,6 @@
 # Calculadora
 
-#Como instalar
+# Como instalar
 
 <pre style="color: blue";>
   git clone 
