@@ -1,6 +1,12 @@
 #!/bin/bash
 
-#Entrada de datos y mostrar con echo
+#Entrada de datos y mostrar con echo y título
+
+echo -e "\e[32m    ___ _ _ _                  
+echo -e "\e[31m / __\__ _| | ___ _ _| | __ _ __| | ___ _ __ __ _  
+echo -e "\e[33m / / / _` | |/ __| | | | |/ _` |/ _` |/ _ \| '__/ _` |
+echo -e "\e[34m / /__| (_| | | (__| |_| | | (_| | (_| | (_) | | | (_| |
+echo -e "\e[35m \____/\__,_|_|\___|\__,_|_|\__,_|\__,_|\___/|_| \__,
 
 echo -e "\e[34m Ejemplo 2+3 o 1+4 2x2 3x1"
 
